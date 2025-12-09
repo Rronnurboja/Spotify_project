@@ -1,7 +1,7 @@
 **🎵 Spotify Mood Mixer - Emotion-Based Music Recommender**
 
 
-*📋 Overview*
+*📋 Overview:*
 Spotify Mood Mixer is an interactive Streamlit web application that recommends music based on emotional states and creates personalized playlists. The app analyzes audio features like danceability, energy, and valence to match songs with specific moods.
 
 
