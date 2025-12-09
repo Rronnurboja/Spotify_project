@@ -7,7 +7,7 @@ Spotify Mood Mixer is an interactive Streamlit web application that recommends m
 
 *✨ Features*
 
-🎭 Mood Presets
+🎭 Mood Presets:
 · 😊 Happy & Energetic
 · 😢 Sad & Melancholic
 · 💃 Dance Party
