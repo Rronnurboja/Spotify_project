@@ -1,4 +1,4 @@
-### **🎵 Spotify Mood Mixer: Emotion-Based Music Recommender**
+## **🎵 Spotify Mood Mixer: Emotion-Based Music Recommender**
 
 
 ## *📋 Overview:*
