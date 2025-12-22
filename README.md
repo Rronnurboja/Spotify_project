@@ -1,11 +1,11 @@
-**🎵 Spotify Mood Mixer: Emotion-Based Music Recommender**
+### **🎵 Spotify Mood Mixer: Emotion-Based Music Recommender**
 
 
-*📋 Overview:*
+## *📋 Overview:*
 Spotify Mood Mixer is an interactive Streamlit web application that recommends music based on emotional states and creates personalized playlists. The app analyzes audio features like danceability, energy, and valence to match songs with specific moods.
 
 
-*✨ Features*
+## *✨ Features*
 
 🎭 Mood Presets:
 · 😊 Happy & Energetic
@@ -16,14 +16,14 @@ Spotify Mood Mixer is an interactive Streamlit web application that recommends m
 · ✨ Custom Mood
 
 
-*🔍 Search & Recommendations*
+## *🔍 Search & Recommendations*
 
 · Find Similar Songs: Search for any song and get similar recommendations
 · Smart Matching: Genre-aware similarity algorithms
 · Feature Filtering: Fine-tune recommendations with audio feature sliders
 
 
-*🎧 Playlist Creation*
+## *🎧 Playlist Creation*
 
 · 3 Creation Modes:
   1. Mood & Feature-based
@@ -33,15 +33,25 @@ Spotify Mood Mixer is an interactive Streamlit web application that recommends m
 · Playlist Statistics: Duration, popularity, genre diversity
 
 
-*📊 Data Exploration*
+## *📊 Data Exploration*
 
 · Genre distribution visualizations
 · Audio feature analysis
 · Dataset sampling and filtering
 · Interactive charts with Matplotlib
 
+## To run the project, type in your terminal the following:
 
+```bash
+streamlit run full_app.py
+```
+or
 
-To run, type in your terminal the following: 
+```bash
+streamlit run app.py
+```
+or
 
-streamlit run file_name.py 
+```bash
+streamlit run simple_app.py
+```
