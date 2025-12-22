@@ -39,3 +39,9 @@ Spotify Mood Mixer is an interactive Streamlit web application that recommends m
 · Audio feature analysis
 · Dataset sampling and filtering
 · Interactive charts with Matplotlib
+
+
+
+**To run: **
+
+streamlit run file_name.py 
